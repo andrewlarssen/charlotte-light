@@ -11,3 +11,5 @@ LHS
 RHS
 7th pin D6 connects to signal low side of voltage converter
 12th pin connects to ground on low side of voltage converter
+
+See my linkendin article about creating a smart light for more details: https://github.com/andrewlarssen/charlotte-light
